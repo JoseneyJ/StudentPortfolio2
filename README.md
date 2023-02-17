@@ -42,6 +42,6 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 Here is a sneak peek!
 
-```<img width="1305" alt="Screenshot 2023-02-15 at 10 05 24 PM" src="https://user-images.githubusercontent.com/119374215/219529360-f19d3615-4480-4c5c-954f-d837646e4f08.png">
+<img width="1305" alt="Screenshot 2023-02-15 at 10 05 24 PM" src="https://user-images.githubusercontent.com/119374215/219529360-f19d3615-4480-4c5c-954f-d837646e4f08.png">
 
 
