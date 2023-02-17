@@ -1,0 +1,81 @@
+
+body {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.3;
+  text-align: center;
+   background-color: rgb(212, 235, 244);
+}
+
+
+.container {
+  font-family: 'Times New Roman', Times, serif;
+  text-shadow:1px 1px #fffcfc;
+  text-align: center;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-color: rgb(218, 187, 241);
+  padding: 2%;
+  color: rgb(5, 4, 4);
+}
+
+.hero {
+  height: 500px;
+  width: 100%;
+  margin-bottom: 25px;
+  background-image: url("./images/Joseney.jpg");
+  background-size: cover;
+  background-position: center;
+
+}
+
+img {
+  width: 400px;
+  height: 200px;
+  object-fit: cover;
+}
+
+
+.center {
+  width: 50%;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  float: right;
+}
+
+a {
+  width: 15%;
+  text-decoration: none;
+  padding: 12px
+  
+}
+
+h1 {
+  font-family:fantasy;
+  color:rgb(0, 0, 0)
+
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar {
+  background-color: rgb(218, 187, 241);
+}
+
+h2 {
+  text-decoration: underline;
+
+}
+
